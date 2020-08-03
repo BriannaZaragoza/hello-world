@@ -1,2 +1,3 @@
 # hello-world
-a new repository
+a new repository;
+I am an educator looking for a new career change!
